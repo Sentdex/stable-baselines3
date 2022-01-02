@@ -114,6 +114,7 @@ Documentation:
 - Fix custom env doc and add env registration example
 - Update algorithms from SB3 Contrib
 - Use underscores for numeric literals in examples to improve clarity
+- Convert custom environment example to 4 space indent (@sentdex)
 
 Release 1.2.0 (2021-09-03)
 ---------------------------
